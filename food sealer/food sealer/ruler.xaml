@@ -1,0 +1,71 @@
+﻿<Window x:Class="food_sealer.ruler"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:food_sealer"
+        mc:Ignorable="d"
+        Title="ruler" Height="600" Width="500">
+    <Grid Name="grid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+       
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="helloblock" Grid.Column="0" Grid.Row="0" Text="你好" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"></TextBlock>
+        <TextBlock x:Name="xuhaoblock" Grid.Column="0" Grid.Row="1" Text="食物编号" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"></TextBlock>
+        <TextBlock x:Name="dateblock" Grid.Column="0" Grid.Row="3" Text="日期" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"></TextBlock>
+        <TextBlock x:Name="sourceblock" Grid.Column="0" Grid.Row="4" Text="过敏原" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"></TextBlock>
+        <TextBlock x:Name="introduceblock" Grid.Column="0" Grid.Row="5" Text="介绍" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"></TextBlock>
+        <TextBlock x:Name="numblock" Grid.Column="0" Grid.Row="6" Text="数量" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"></TextBlock>
+        <TextBox x:Name="foodchange1" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.ColumnSpan="3" Width="280" Height="35"></TextBox>
+        <TextBox x:Name="fooddatechange1" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.ColumnSpan="3" Width="280" Height="35"></TextBox>
+        <TextBox x:Name="foodsourcechange1" Grid.Column="1" Grid.Row="4" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.ColumnSpan="3" Width="280" Height="35"></TextBox>
+        <TextBox x:Name="foodintroducechage1" Grid.Column="1" Grid.Row="5" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.ColumnSpan="3" Width="280" Height="35"></TextBox>
+        <TextBox x:Name="foodnumberchange1" Grid.Column="1" Grid.Row="6" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.ColumnSpan="3" Width="280" Height="35"></TextBox>
+        <Button x:Name="changebutton" Grid.Column="4" Grid.Row="6" HorizontalAlignment="Center" VerticalAlignment="Center" Height="50" Width="50" Click="changebutton_Click" Background="#FFDDDDDD" BorderBrush="{x:Null}">
+            <Button.Content>确定</Button.Content>
+        </Button>
+        
+            <TextBlock x:Name="nameblock" Grid.Column="0" Grid.Row="2" Text="名称" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
+        <TextBox x:Name="foodnamechange1" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Width="280" Grid.ColumnSpan="3" Height="35"></TextBox>
+        <TextBox x:Name="colorviwer" Text="{Binding Path=Color}" Grid.Column="0" Grid.Row="7" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center" Width="50"></TextBox>
+        <TextBlock x:Name="xuhao1block" Text="序号:" Grid.Column="0" Grid.Row="8" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"></TextBlock>
+        <TextBlock x:Name="jiaodublock" Text="度数:" Grid.Column="0" Grid.Row="9" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20"></TextBlock>
+        <TextBox x:Name="anglexuhao" Grid.Column="1" Grid.Row="8" VerticalAlignment="Center" HorizontalAlignment="Left" Width="100" Height="25" FontSize="20" BorderBrush="Black"></TextBox>
+        <TextBox x:Name="angleinput" Grid.Column="1" Grid.Row="9" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Left" Width="100" Height="25" BorderBrush="Black"></TextBox>
+        <Button x:Name="angleok" Grid.Column="1" Grid.Row="10" Click="angleok_Click" Margin="20,20.2,20,10.4">
+            <Button.Content>确定</Button.Content>
+        </Button>
+        <Button x:Name="receivecolorbutton" Grid.Column="1" Grid.Row="7" Click="receivecolorbutton_Click" Margin="20,20,20,11.6" FontSize="12">
+            <Button.Content>开始接受</Button.Content>
+        </Button>
+        <Button x:Name="mainmotorun" Grid.Column="2" Grid.Row="8" Margin="5,12.4,10,10.2" FontSize="12" Click="mainmotorun_Click">
+            <Button.Content>主电机运转</Button.Content>
+        </Button>
+        <Button x:Name="thesecondmotorun" Grid.Column="2" Grid.Row="9" Margin="5,12.4,10,10.2" FontSize="12" Click="thesecondmotorun_Click">
+            <Button.Content>副电机1运转</Button.Content>
+        </Button>
+        <Button x:Name="thethirdmotorun" Grid.Column="2" Grid.Row="10" Margin="5,12.4,10,10.2" FontSize="12" Click="thethirdmotorun_Click">
+            <Button.Content>副电机2运转</Button.Content>
+        </Button>
+
+    </Grid>
+</Window>

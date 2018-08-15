@@ -1,0 +1,95 @@
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\food sealer.csprojResolveAssemblyReference.cache
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\MainWindow.g.cs
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\App.g.cs
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\food sealer_MarkupCompile.cache
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\food sealer_MarkupCompile.lref
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\bin\Debug\food sealer.exe.config
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\bin\Debug\food sealer.exe
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\bin\Debug\food sealer.pdb
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\MainWindow.baml
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\food sealer.g.resources
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\food_sealer.Properties.Resources.resources
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\food sealer.csproj.GenerateResource.Cache
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\food sealer.csproj.CoreCompileInputs.cache
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\food sealer.exe
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\food sealer.pdb
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\masterkey.g.cs
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\masterkey.baml
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\ruler.g.cs
+C:\Users\18831\Desktop\v1.3\food sealer\food sealer\obj\Debug\ruler.baml
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\bin\Debug\food sealer.exe.config
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\bin\Debug\food sealer.exe
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\bin\Debug\food sealer.pdb
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\food sealer.csprojResolveAssemblyReference.cache
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\MainWindow.g.cs
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\masterkey.g.cs
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\ruler.g.cs
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\App.g.cs
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\food sealer_MarkupCompile.cache
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\food sealer_MarkupCompile.lref
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\MainWindow.baml
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\masterkey.baml
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\ruler.baml
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\food sealer.g.resources
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\food_sealer.Properties.Resources.resources
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\food sealer.csproj.GenerateResource.Cache
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\food sealer.csproj.CoreCompileInputs.cache
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\food sealer.exe
+C:\Users\18831\Desktop\v1.8\food sealer\food sealer\obj\Debug\food sealer.pdb
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\bin\Debug\food sealer.exe.config
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\bin\Debug\food sealer.exe
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\bin\Debug\food sealer.pdb
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\food sealer.csprojResolveAssemblyReference.cache
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\MainWindow.g.cs
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\masterkey.g.cs
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\ruler.g.cs
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\App.g.cs
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\food sealer_MarkupCompile.cache
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\food sealer_MarkupCompile.lref
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\MainWindow.baml
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\masterkey.baml
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\ruler.baml
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\food sealer.g.resources
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\food_sealer.Properties.Resources.resources
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\food sealer.csproj.GenerateResource.Cache
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\food sealer.csproj.CoreCompileInputs.cache
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\food sealer.exe
+C:\Users\18831\Desktop\v1.91\food sealer\food sealer\obj\Debug\food sealer.pdb
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\bin\Debug\food sealer.exe.config
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\bin\Debug\food sealer.exe
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\bin\Debug\food sealer.pdb
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\food sealer.csprojResolveAssemblyReference.cache
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\MainWindow.g.cs
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\masterkey.g.cs
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\ruler.g.cs
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\App.g.cs
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\food sealer_MarkupCompile.cache
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\food sealer_MarkupCompile.lref
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\MainWindow.baml
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\masterkey.baml
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\ruler.baml
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\food sealer.g.resources
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\food_sealer.Properties.Resources.resources
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\food sealer.csproj.GenerateResource.Cache
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\food sealer.csproj.CoreCompileInputs.cache
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\food sealer.exe
+C:\Users\18831\Desktop\v2.0\food sealer\food sealer\obj\Debug\food sealer.pdb
+D:\项目设计\v2.2\food sealer\food sealer\bin\Debug\food sealer.exe.config
+D:\项目设计\v2.2\food sealer\food sealer\bin\Debug\food sealer.exe
+D:\项目设计\v2.2\food sealer\food sealer\bin\Debug\food sealer.pdb
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\food sealer.csprojResolveAssemblyReference.cache
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\MainWindow.g.cs
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\masterkey.g.cs
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\ruler.g.cs
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\App.g.cs
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\food sealer_MarkupCompile.cache
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\food sealer_MarkupCompile.lref
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\MainWindow.baml
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\masterkey.baml
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\ruler.baml
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\food sealer.g.resources
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\food_sealer.Properties.Resources.resources
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\food sealer.csproj.GenerateResource.Cache
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\food sealer.csproj.CoreCompileInputs.cache
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\food sealer.exe
+D:\项目设计\v2.2\food sealer\food sealer\obj\Debug\food sealer.pdb
